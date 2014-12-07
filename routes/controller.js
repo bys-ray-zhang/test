@@ -2,9 +2,9 @@
  * New node file
  */
 var routes = require('./index');
-var users = require('./users');
+var user = require('./user');
 
 module.exports = function(app){
 	app.use(routes);
-	app.use(users);
+	app.use(user);
 };

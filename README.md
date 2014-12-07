@@ -21,3 +21,4 @@ Nodeclipse is free open-source project that grows with your contributions.
 
 #example:
 #http://blog.fens.me/nodejs-express3/
+#http://www.it165.net/pro/html/201405/13965.html
