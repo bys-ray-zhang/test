@@ -7,7 +7,7 @@ router.get('/user/', function(req, res) {
 });
 
 router.get('/user/login', function(req, res) {
-	  res.render('user/login');
+	  res.render('user/login',  { title: 'Express' });
 });
 
 router.post('/user/login', function(req, res) {
